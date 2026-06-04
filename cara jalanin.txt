@@ -1,0 +1,13 @@
+Step 1: Buka Command Prompt atau Anaconda Prompt, lalu aktifkan environment yang digunakan oleh project dengan menjalankan perintah:
+
+conda activate space_gesture
+
+Step 2: Pindah ke folder project NebulaHeart-3D menggunakan perintah:
+
+cd "C:\Users\ASUS\OneDrive - Bina Nusantara\DOCUMENTS\1CV-CURICULUM VITAE\project\NebulaHeart-3D"
+
+Step 3: Jalankan program dengan perintah:
+
+python index.py
+
+Jika seluruh dependency telah terinstal dengan benar dan webcam tersedia, aplikasi akan terbuka dan sistem hand gesture control siap digunakan.
